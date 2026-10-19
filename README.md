@@ -1,5 +1,5 @@
 # Fga721-PvZ2-Helper-Funcs
-Helper funcs for pvz2 modders!! i used it on vortexed and now i want to do it public yayyy i love making things public kakaka
+Helper funcs for pvz2 modders!! i used it on vortexed and now i want to do them public yayyy i love to make things public kakaka (krishna i love u sonion ahhh im funny asf)
 
 # Credits
 Me, ChatGPT and Gemini
