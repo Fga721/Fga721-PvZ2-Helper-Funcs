@@ -6,7 +6,7 @@ Me, ChatGPT and Gemini
 
 # Included Funcs
 * Disable Plants For PlantTypes: Disable all plants of your planttypes! you can put exceptions and you must have your planttypes on the same folder as the script
-* Divide Images Of Lawns: Allows for divide a image for make texture left, right and center of your lawn! your image name has to be file and be a png (refs folder is for have a reference, dont delete it)
+* Divide Images Of Lawns: Allows the division of an image for make texture left, right and center of your lawn! your image name has to be file and be a png (refs folder is for have a reference, dont delete it)
 * Organize DomDocument: Organize the DomDocument by media, image, sprite and label!
 * Rescale Images For Sprites: rescales every png on the script's folder!
 
